@@ -1,0 +1,901 @@
+Extension,Name
+baseset2,Harbinger
+baseset2,Merchant
+baseset2,Vassal
+baseset2,Poacher
+baseset2,Bandit
+baseset2,Sentry
+baseset2,Artisan
+baseset,Adventurer
+baseset,Bureaucrat
+baseset,Cellar
+baseset,Chancellor
+baseset,Chapel
+baseset,Council Room
+baseset,Feast
+baseset,Festival
+baseset,Gardens
+baseset,Laboratory
+baseset,Library
+baseset,Market
+baseset,Militia
+baseset,Mine
+baseset,Moat
+baseset,Moneylender
+baseset,Remodel
+baseset,Smithy
+baseset,Spy
+baseset,Thief
+baseset,Throne Room
+baseset,Village
+baseset,Witch
+baseset,Woodcutter
+baseset,Workshop
+intrigue2,Nobles
+intrigue2,Conspirator
+intrigue2,Mining Village
+intrigue2,Pawn
+intrigue2,Courtyard
+intrigue2,Trading Post
+intrigue2,Duke
+intrigue2,Baron
+intrigue2,Swindler
+intrigue2,Bridge
+intrigue2,Torturer
+intrigue2,Wishing Well
+intrigue2,Masquerade
+intrigue2,Ironworks
+intrigue2,Steward
+intrigue2,Harem
+intrigue2,Minion
+intrigue2,Upgrade
+intrigue2,Shanty Town
+intrigue2,Lurker
+intrigue2,Diplomat
+intrigue2,Mill
+intrigue2,Secret Passage
+intrigue2,Patrol
+intrigue2,Courtier
+intrigue2,Replace
+intrigue,Nobles
+intrigue,Conspirator
+intrigue,Mining Village
+intrigue,Secret Chamber
+intrigue,Coppersmith
+intrigue,Pawn
+intrigue,Courtyard
+intrigue,Trading Post
+intrigue,Scout
+intrigue,Duke
+intrigue,Baron
+intrigue,Swindler
+intrigue,Bridge
+intrigue,Torturer
+intrigue,Wishing Well
+intrigue,Masquerade
+intrigue,Ironworks
+intrigue,Steward
+intrigue,Harem
+intrigue,Minion
+intrigue,Saboteur
+intrigue,Upgrade
+intrigue,Tribute
+intrigue,Great Hall
+intrigue,Shanty Town
+seaside,Ghost Ship
+seaside,Smugglers
+seaside,Salvager
+seaside,Haven
+seaside,Ambassador
+seaside,Sea Hag
+seaside,Native Village
+seaside,Navigator
+seaside,Tactician
+seaside,Fishing Village
+seaside,Island
+seaside,Wharf
+seaside,Bazaar
+seaside,Treasure Map
+seaside,Explorer
+seaside,Lookout
+seaside,Treasury
+seaside,Cutpurse
+seaside,Caravan
+seaside,Warehouse
+seaside,Lighthouse
+seaside,Pirate Ship
+seaside,Pearl Diver
+seaside,Merchant Ship
+seaside,Embargo
+seaside,Outpost
+seaside2,Astrolabe
+seaside2,Monkey
+seaside2,Sea Chart
+seaside2,Blockade
+seaside2,Sailor
+seaside2,Tide Pools
+seaside2,Corsair
+seaside2,Pirate
+seaside2,Sea Witch
+alchemy,Alchemist
+alchemy,Apothecary
+alchemy,Apprentice
+alchemy,Familiar
+alchemy,Golem
+alchemy,Herbalist
+alchemy,Philosopher's Stone
+alchemy,Possession
+alchemy,Scrying Pool
+alchemy,Transmute
+alchemy,University
+alchemy,Vineyard
+prosperity,Bank
+prosperity,City
+prosperity,Contraband
+prosperity,Counting House
+prosperity,Bishop
+prosperity,Grand Market
+prosperity,Goons
+prosperity,Watchtower
+prosperity,Expand
+prosperity,King's Court
+prosperity,Hoard
+prosperity,Peddler
+prosperity,Monument
+prosperity,Forge
+prosperity,Rabble
+prosperity,Talisman
+prosperity,Mint
+prosperity,Loan
+prosperity,Trade Route
+prosperity,Quarry
+prosperity,Royal Seal
+prosperity,Mountebank
+prosperity,Worker's Village
+prosperity,Vault
+prosperity,Venture
+prosperity2,Anvil
+prosperity2,Clerk
+prosperity2,Investment
+prosperity2,Tiara
+prosperity2,Charlatan
+prosperity2,Collection
+prosperity2,Crystal Ball
+prosperity2,Magnate
+prosperity2,War Chest
+cornucopia,Harvest
+cornucopia,Young Witch
+cornucopia,Horse Traders
+cornucopia,Tournament
+cornucopia,Hamlet
+cornucopia,Jester
+cornucopia,Fortune Teller
+cornucopia,Fairgrounds
+cornucopia,Horn of Plenty
+cornucopia,Hunting Party
+cornucopia,Menagerie
+cornucopia,Farming Village
+cornucopia,Remake
+cornucopia,Bag of Gold
+cornucopia,Diadem
+cornucopia,Followers
+cornucopia,Princess
+cornucopia,Trusty Steed
+hinterlands,Border Village
+hinterlands,Fool's Gold
+hinterlands,Trader
+hinterlands,Highway
+hinterlands,Silk Road
+hinterlands,Ill-Gotten Gains
+hinterlands,Embassy
+hinterlands,Nomad Camp
+hinterlands,Spice Merchant
+hinterlands,Oracle
+hinterlands,Cartographer
+hinterlands,Farmland
+hinterlands,Noble Brigand
+hinterlands,Margrave
+hinterlands,Haggler
+hinterlands,Scheme
+hinterlands,Inn
+hinterlands,Tunnel
+hinterlands,Crossroads
+hinterlands,Develop
+hinterlands,Oasis
+hinterlands,Mandarin
+hinterlands,Cache
+hinterlands,Duchess
+hinterlands,Stables
+hinterlands,Jack of All Trades
+hinterlands2,Trail
+hinterlands2,Weaver
+hinterlands2,Berserker
+hinterlands2,Cauldron
+hinterlands2,Guard Dog
+hinterlands2,Nomads
+hinterlands2,Souk
+hinterlands2,Wheelwright
+hinterlands2,Witch's Hut
+promos,Avanto
+promos,Black Market
+promos,Captain
+promos,Church
+promos,Dismantle
+promos,Envoy
+promos,Summon
+promos,Governor
+promos,Prince
+promos,Sauna
+promos,Sauna / Avanto
+promos,Stash
+promos,Walled Village
+darkages,Armory
+darkages,Vagrant
+darkages,Catacombs
+darkages,Count
+darkages,Knights
+darkages,Fortress
+darkages,Scavenger
+darkages,Market Square
+darkages,Urchin
+darkages,Rats
+darkages,Sage
+darkages,Forager
+darkages,Altar
+darkages,Procession
+darkages,Squire
+darkages,Beggar
+darkages,Poor House
+darkages,Death Cart
+darkages,Wandering Minstrel
+darkages,Ironmonger
+darkages,Hermit
+darkages,Pillage
+darkages,Mystic
+darkages,Storeroom
+darkages,Hunting Grounds
+darkages,Graverobber
+darkages,Counterfeit
+darkages,Cultist
+darkages,Rogue
+darkages,Marauder
+darkages,Band of Misfits
+darkages,Junk Dealer
+darkages,Feodum
+darkages,Rebuild
+darkages,Bandit Camp
+darkages,Abandoned Mine
+darkages,Ruined Library
+darkages,Ruined Market
+darkages,Ruined Village
+darkages,Survivors
+darkages,Madman
+darkages,Mercenary
+darkages,Spoils
+darkages,Hovel
+darkages,Necropolis
+darkages,Overgrown Estate
+darkages,Dame Anna
+darkages,Dame Josephine
+darkages,Dame Molly
+darkages,Dame Natalie
+darkages,Dame Sylvia
+darkages,Sir Bailey
+darkages,Sir Destry
+darkages,Sir Martin
+darkages,Sir Michael
+darkages,Sir Vander
+guilds,Advisor
+guilds,Baker
+guilds,Butcher
+guilds,Candlestick Maker
+guilds,Doctor
+guilds,Herald
+guilds,Journeyman
+guilds,Masterpiece
+guilds,Merchant Guild
+guilds,Plaza
+guilds,Soothsayer
+guilds,Stonemason
+guilds,Taxman
+adventures,Amulet
+adventures,Artificer
+adventures,Bridge Troll
+adventures,Caravan Guard
+adventures,Distant Lands
+adventures,Dungeon
+adventures,Duplicate
+adventures,Gear
+adventures,Giant
+adventures,Guide
+adventures,Haunted Woods
+adventures,Hireling
+adventures,Lost City
+adventures,Magpie
+adventures,Messenger
+adventures,Miser
+adventures,Page
+adventures,Peasant
+adventures,Port
+adventures,Ranger
+adventures,Ratcatcher
+adventures,Raze
+adventures,Relic
+adventures,Royal Carriage
+adventures,Storyteller
+adventures,Swamp Hag
+adventures,Transmogrify
+adventures,Treasure Trove
+adventures,Wine Merchant
+adventures,Coin of the Realm
+adventures,Mission
+adventures,Scouting Party
+adventures,Pathfinding
+adventures,Bonfire
+adventures,Pilgrimage
+adventures,Training
+adventures,Ball
+adventures,Travelling Fair
+adventures,Save
+adventures,Borrow
+adventures,Lost Arts
+adventures,Trade
+adventures,Raid
+adventures,Quest
+adventures,Expedition
+adventures,Alms
+adventures,Inheritance
+adventures,Ferry
+adventures,Plan
+adventures,Seaway
+adventures,Treasure Hunter
+adventures,Warrior
+adventures,Hero
+adventures,Champion
+adventures,Soldier
+adventures,Fugitive
+adventures,Disciple
+adventures,Teacher
+empires,Engineer
+empires,City Quarter
+empires,Overlord
+empires,Royal Blacksmith
+empires,Encampment / Plunder
+empires,Patrician / Emporium
+empires,Settlers / Bustling Village
+empires,Castles
+empires,Catapult / Rocks
+empires,Chariot Race
+empires,Enchantress
+empires,Farmers Market
+empires,Gladiator / Fortune
+empires,Sacrifice
+empires,Temple
+empires,Villa
+empires,Archive
+empires,Capital
+empires,Charm
+empires,Crown
+empires,Forum
+empires,Groundskeeper
+empires,Legionary
+empires,Wild Hunt
+empires,Triumph
+empires,Annex
+empires,Donate
+empires,Advance
+empires,Delve
+empires,Tax
+empires,Banquet
+empires,Ritual
+empires,Salt the Earth
+empires,Wedding
+empires,Windfall
+empires,Conquest
+empires,Dominate
+empires,Aqueduct
+empires,Arena
+empires,Bandit Fort
+empires,Basilica
+empires,Baths
+empires,Battlefield
+empires,Colonnade
+empires,Defiled Shrine
+empires,Fountain
+empires,Keep
+empires,Labyrinth
+empires,Mountain Pass
+empires,Museum
+empires,Obelisk
+empires,Orchard
+empires,Palace
+empires,Tomb
+empires,Tower
+empires,Triumphal Arch
+empires,Wall
+empires,Wolf Den
+empires,Castles - to hide split card
+empires,Humble Castle
+empires,Crumbling Castle
+empires,Small Castle
+empires,Haunted Castle
+empires,Opulent Castle
+empires,Sprawling Castle
+empires,Grand Castle
+empires,Kings Castle
+empires,Catapult / Rocks - to hide split card
+empires,Catapult
+empires,Rocks
+empires,Encampment / Plunder - to hide split card
+empires,Encampment
+empires,Plunder
+empires,Patrician / Emporium - to hide split card
+empires,Patrician
+empires,Emporium
+empires,Settlers / Bustling Village - to hide split card
+empires,Settlers
+empires,Bustling Village
+empires,Gladiator / Fortune - to hide split card
+empires,Gladiator
+empires,Fortune
+nocturne,Druid
+nocturne,Faithful Hound
+nocturne,Guardian
+nocturne,Monastery
+nocturne,Pixie
+nocturne,Tracker
+nocturne,Changeling
+nocturne,Fool
+nocturne,Ghost Town
+nocturne,Leprechaun
+nocturne,Night Watchman
+nocturne,Secret Cave
+nocturne,Bard
+nocturne,Blessed Village
+nocturne,Cemetery
+nocturne,Conclave
+nocturne,Devil's Workshop
+nocturne,Exorcist
+nocturne,Necromancer
+nocturne,Shepherd
+nocturne,Skulk
+nocturne,Cobbler
+nocturne,Crypt
+nocturne,Cursed Village
+nocturne,Den of Sin
+nocturne,Idol
+nocturne,Pooka
+nocturne,Sacred Grove
+nocturne,Tormentor
+nocturne,Tragic Hero
+nocturne,Vampire
+nocturne,Werewolf
+nocturne,Raider
+nocturne,The Earth's Gift
+nocturne,The Field's Gift
+nocturne,The Flame's Gift
+nocturne,The Forest's Gift
+nocturne,The Moon's Gift
+nocturne,The Mountain's Gift
+nocturne,The River's Gift
+nocturne,The Sea's Gift
+nocturne,The Sky's Gift
+nocturne,The Sun's Gift
+nocturne,The Swamp's Gift
+nocturne,The Wind's Gift
+nocturne,Haunted Mirror
+nocturne,Magic Lamp
+nocturne,Goat
+nocturne,Pasture
+nocturne,Pouch
+nocturne,Cursed Gold
+nocturne,Lucky Coin
+nocturne,Will-O'Wisp
+nocturne,Wish
+nocturne,Bat
+nocturne,Imp
+nocturne,Zombie Apprentice
+nocturne,Zombie Mason
+nocturne,Zombie Spy
+nocturne,Ghost
+nocturne,Bad Omens
+nocturne,Delusion
+nocturne,Envy
+nocturne,Famine
+nocturne,Fear
+nocturne,Greed
+nocturne,Haunting
+nocturne,Locusts
+nocturne,Misery
+nocturne,Plague
+nocturne,Poverty
+nocturne,War
+nocturne,Deluded
+nocturne,Envious
+nocturne,Miserable
+nocturne,Twice Miserable
+nocturne,Lost in the Woods
+renaissance,Border Guard
+renaissance,Ducat
+renaissance,Lackeys
+renaissance,Acting Troupe
+renaissance,Cargo Ship
+renaissance,Experiment
+renaissance,Improve
+renaissance,Flag Bearer
+renaissance,Hideout
+renaissance,Inventor
+renaissance,Mountain Village
+renaissance,Patron
+renaissance,Priest
+renaissance,Research
+renaissance,Silk Merchant
+renaissance,Old Witch
+renaissance,Recruiter
+renaissance,Scepter
+renaissance,Scholar
+renaissance,Sculptor
+renaissance,Seer
+renaissance,Spices
+renaissance,Swashbuckler
+renaissance,Treasurer
+renaissance,Villain
+renaissance,Cathedral
+renaissance,City Gate
+renaissance,Pageant
+renaissance,Sewers
+renaissance,Star Chart
+renaissance,Exploration
+renaissance,Fair
+renaissance,Silos
+renaissance,Sinister Plot
+renaissance,Academy
+renaissance,Capitalism
+renaissance,Fleet
+renaissance,Guildhall
+renaissance,Piazza
+renaissance,Road Network
+renaissance,Barracks
+renaissance,Crop Rotation
+renaissance,Innovation
+renaissance,Canal
+renaissance,Citadel
+renaissance,Flag
+renaissance,Horn
+renaissance,Key
+renaissance,Lantern
+menagerie,Animal Fair
+menagerie,Barge
+menagerie,Black Cat
+menagerie,Bounty Hunter
+menagerie,Camel Train
+menagerie,Cardinal
+menagerie,Cavalry
+menagerie,Coven
+menagerie,Destrier
+menagerie,Displace
+menagerie,Falconer
+menagerie,Fisherman
+menagerie,Gatekeeper
+menagerie,Goatherd
+menagerie,Groom
+menagerie,Hostelry
+menagerie,Hunting Lodge
+menagerie,Kiln
+menagerie,Livery
+menagerie,Mastermind
+menagerie,Paddock
+menagerie,Sanctuary
+menagerie,Scrap
+menagerie,Sheepdog
+menagerie,Sleigh
+menagerie,Snowy Village
+menagerie,Stockpile
+menagerie,Supplies
+menagerie,Village Green
+menagerie,Wayfarer
+menagerie,Alliance
+menagerie,Banish
+menagerie,Bargain
+menagerie,Commerce
+menagerie,Delay
+menagerie,Demand
+menagerie,Desperation
+menagerie,Enclave
+menagerie,Enhance
+menagerie,Gamble
+menagerie,Invest
+menagerie,March
+menagerie,Populate
+menagerie,Pursue
+menagerie,Reap
+menagerie,Ride
+menagerie,Seize the Day
+menagerie,Stampede
+menagerie,Toil
+menagerie,Transport
+menagerie,Way of the Butterfly
+menagerie,Way of the Camel
+menagerie,Way of the Chameleon
+menagerie,Way of the Frog
+menagerie,Way of the Goat
+menagerie,Way of the Horse
+menagerie,Way of the Mole
+menagerie,Way of the Monkey
+menagerie,Way of the Mouse
+menagerie,Way of the Mule
+menagerie,Way of the Otter
+menagerie,Way of the Owl
+menagerie,Way of the Ox
+menagerie,Way of the Pig
+menagerie,Way of the Rat
+menagerie,Way of the Seal
+menagerie,Way of the Sheep
+menagerie,Way of the Squirrel
+menagerie,Way of the Turtle
+menagerie,Way of the Worm
+menagerie,Horse
+allies,Bauble
+allies,Sycophant
+allies,Townsfolk
+allies,Augurs
+allies,Clashes
+allies,Forts
+allies,Importer
+allies,Merchant Camp
+allies,Odysseys
+allies,Sentinel
+allies,Underling
+allies,Wizards
+allies,Broker
+allies,Carpenter
+allies,Courier
+allies,Innkeeper
+allies,Royal Galley
+allies,Town
+allies,Barbarian
+allies,Capital City
+allies,Contract
+allies,Emissary
+allies,Galleria
+allies,Guildmaster
+allies,Highwayman
+allies,Hunter
+allies,Modify
+allies,Skirmisher
+allies,Specialist
+allies,Swap
+allies,Marquis
+allies,Architects' Guild
+allies,Band of Nomads
+allies,Cave Dwellers
+allies,Circle of Witches
+allies,City-state
+allies,Coastal Haven
+allies,Crafters' Guild
+allies,Desert Guides
+allies,Family of Inventors
+allies,Fellowship of Scribes
+allies,Forest Dwellers
+allies,Gang of Pickpockets
+allies,Island Folk
+allies,League of Bankers
+allies,League of Shopkeepers
+allies,Market Towns
+allies,Mountain Folk
+allies,Order of Astrologers
+allies,Order of Masons
+allies,Peaceful Cult
+allies,Plateau Shepherds
+allies,Trappers' Lodge
+allies,Woodworkers' Guild
+allies,Augurs - to hide split card
+allies,Herb Gatherer
+allies,Acolyte
+allies,Sorceress
+allies,Sibyl
+allies,Clashes - to hide split card
+allies,Battle Plan
+allies,Archer
+allies,Warlord
+allies,Territory
+allies,Forts - to hide split card
+allies,Tent
+allies,Garrison
+allies,Hill Fort
+allies,Stronghold
+allies,Odysseys - to hide split card
+allies,Old Map
+allies,Voyage
+allies,Sunken Treasure
+allies,Distant Shore
+allies,Townsfolk - to hide split card
+allies,Town Crier
+allies,Blacksmith
+allies,Miller
+allies,Elder
+allies,Wizards - to hide split card
+allies,Student
+allies,Conjurer
+allies,Sorcerer
+allies,Lich
+plunder,Abundance
+plunder,Buried Treasure
+plunder,Cabin Boy
+plunder,Cage
+plunder,Crew
+plunder,Crucible
+plunder,Cutthroat
+plunder,Enlarge
+plunder,Figurine
+plunder,First Mate
+plunder,Flagship
+plunder,Fortune Hunter
+plunder,Frigate
+plunder,Gondola
+plunder,Grotto
+plunder,Harbor Village
+plunder,Jewelled Egg
+plunder,King's Cache
+plunder,Landing Party
+plunder,Longship
+plunder,Mapmaker
+plunder,Maroon
+plunder,Mining Road
+plunder,Pendant
+plunder,Pickaxe
+plunder,Pilgrim
+plunder,Quartermaster
+plunder,Rope
+plunder,Sack of Loot
+plunder,Search
+plunder,Secluded Shrine
+plunder,Shaman
+plunder,Silver Mine
+plunder,Siren
+plunder,Stowaway
+plunder,Swamp Shacks
+plunder,Taskmaster
+plunder,Tools
+plunder,Trickster
+plunder,Wealthy Village
+plunder,Amphora
+plunder,Doubloons
+plunder,Endless Chalice
+plunder,Figurehead
+plunder,Hammer
+plunder,Insignia
+plunder,Jewels
+plunder,Orb
+plunder,Prize Goat
+plunder,Puzzle Box
+plunder,Sextant
+plunder,Shield
+plunder,Spell Scroll
+plunder,Staff
+plunder,Sword
+plunder,Bury
+plunder,Avoid
+plunder,Deliver
+plunder,Peril
+plunder,Rush
+plunder,Foray
+plunder,Launch
+plunder,Mirror
+plunder,Prepare
+plunder,Scrounge
+plunder,Journey
+plunder,Maelstrom
+plunder,Looting
+plunder,Invasion
+plunder,Prosper
+plunder,Cheap
+plunder,Cursed
+plunder,Fated
+plunder,Fawning
+plunder,Friendly
+plunder,Hasty
+plunder,Inherited
+plunder,Inspiring
+plunder,Nearby
+plunder,Patient
+plunder,Pious
+plunder,Reckless
+plunder,Rich
+plunder,Shy
+plunder,Tireless
+guildscornucopia,Harvest
+guildscornucopia,Young Witch
+guildscornucopia,Horse Traders
+guildscornucopia,Tournament
+guildscornucopia,Hamlet
+guildscornucopia,Jester
+guildscornucopia,Fortune Teller
+guildscornucopia,Fairgrounds
+guildscornucopia,Horn of Plenty
+guildscornucopia,Hunting Party
+guildscornucopia,Menagerie
+guildscornucopia,Farming Village
+guildscornucopia,Remake
+guildscornucopia,Bag of Gold
+guildscornucopia,Diadem
+guildscornucopia,Followers
+guildscornucopia,Princess
+guildscornucopia,Trusty Steed
+guildscornucopia,Advisor
+guildscornucopia,Baker
+guildscornucopia,Butcher
+guildscornucopia,Candlestick Maker
+guildscornucopia,Doctor
+guildscornucopia,Herald
+guildscornucopia,Journeyman
+guildscornucopia,Masterpiece
+guildscornucopia,Merchant Guild
+guildscornucopia,Plaza
+guildscornucopia,Soothsayer
+guildscornucopia,Stonemason
+guildscornucopia,Taxman
+guildscornucopia2,Farrier
+guildscornucopia2,Shop
+guildscornucopia2,Infirmary
+guildscornucopia2,Farmhands
+guildscornucopia2,Carnival
+guildscornucopia2,Ferryman
+guildscornucopia2,Foopad
+guildscornucopia2,Joust
+guildscornucopia2,Coronet
+guildscornucopia2,Courser
+guildscornucopia2,Demene
+guildscornucopia2,Housecarl
+guildscornucopia2,Huge Turnip
+guildscornucopia2,Renow
+risingsun,Alley
+risingsun,Aristocrat
+risingsun,Artist
+risingsun,Change
+risingsun,Craftsman
+risingsun,Daimyo
+risingsun,Fishmonger
+risingsun,Gold Mine
+risingsun,Imperial Envoy
+risingsun,Kitsune
+risingsun,Litter
+risingsun,Mountain Shrine
+risingsun,Ninja
+risingsun,Poet
+risingsun,Rice
+risingsun,Rice Broker
+risingsun,Riverboat
+risingsun,River Shrine
+risingsun,Ronin
+risingsun,Root Cellar
+risingsun,Rustic Village
+risingsun,Samurai
+risingsun,Snake Witch
+risingsun,Tanuki
+risingsun,Tea House
+risingsun,Amass
+risingsun,Asceticism
+risingsun,Continue
+risingsun,Credit
+risingsun,Foresight
+risingsun,Gather
+risingsun,Kintsugi
+risingsun,Practice
+risingsun,Receive Tribute
+risingsun,Sea Trade
+risingsun,Approaching Army
+risingsun,Biding Time
+risingsun,Bureaucracy
+risingsun,Divine Wind
+risingsun,Enlightenment
+risingsun,Flourishing Trade
+risingsun,Good Harvest
+risingsun,Great Leader
+risingsun,Growth
+risingsun,Harsh Winter
+risingsun,Kind Emperor
+risingsun,Panic
+risingsun,Progress
+risingsun,Rapid Expansion
+risingsun,Sickness
